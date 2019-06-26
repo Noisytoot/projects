@@ -1,0 +1,6 @@
+baseURL = "https://projects.noisytoot.org/"
+languageCode = "en-gb"
+title = "noisytoot"
+theme = "base16"
+markup = "org"
+pygmentsuseclasses = true

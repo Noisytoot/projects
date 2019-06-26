@@ -1,0 +1,15 @@
+#+TITLE: mq
+#+DATE: 2019-06-26T09:49:02+01:00
+#+DRAFT: false
+A program that asks you maths questions, written in [[https://perl6.org/][Perl 6]], and licensed under the GNU GPL v3.0
+
+Installation instructions for Linux:
+{{< highlight shell >}}
+git clone https://github.com/Noisytoot/mq
+cd mq
+chmod +x mq.p6
+ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this
+mkdir ~/.mq
+{{< / highlight >}}
+[[https://github.com/Noisytoot/mq][GitHub]]
+[[https://gitlab.com/noisytoot/mq][GitLab]]
