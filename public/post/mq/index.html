@@ -40,13 +40,37 @@
   <section class="body" itemprop="articleBody">
     <p>A program that asks you maths questions, written in <a href="https://perl6.org/" title="Perl 6">Perl 6</a>, and licensed under the GNU GPL v3.0</p>
 
-<p>Installation instructions for Linux:
-<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">git clone https://github.com/Noisytoot/mq
+<h1 id="installation-instructions">Installation instructions</h1>
+
+<h2 id="for-unix-like-operating-systems-like-linux-bsd-mac-os-x">for Unix-like operating systems (like Linux, BSD, Mac OS X)</h2>
+
+<h3 id="using-git">Using git</h3>
+
+<p>Install mq using:</p>
+
+<p><div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> ~
+git clone https://github.com/Noisytoot/mq
 <span class="nb">cd</span> mq
-chmod +x mq.p6
 ln -s <span class="nv">$PWD</span>/mq.p6 /usr/local/bin/mq <span class="c1"># Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this</span>
 mkdir ~/.mq</code></pre></div>
-<a href="https://github.com/Noisytoot/mq" title="GitHub">GitHub</a>
+Update mq using:</p>
+
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> ~/mq
+git pull</code></pre></div>
+
+<h3 id="using-wget">Using wget</h3>
+
+<p>Install, and update mq using:</p>
+
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> /usr/local <span class="c1"># Replace /usr/local with where you want to install mq</span>
+wget https://raw.githubusercontent.com/Noisytoot/mq/master/mq.p6 -O mq <span class="c1"># You may need root permissions to run this</span>
+chmod +x mq</code></pre></div>
+
+<h2 id="for-other-operating-systems-like-windows">For other operating systems (like Windows)</h2>
+
+<p>I do not currently have instructions for other operating systems, but basically you need to download mq.p6, add executable permissions if the OS has them, and put it into your PATH</p>
+
+<p><a href="https://github.com/Noisytoot/mq" title="GitHub">GitHub</a>
 <a href="https://gitlab.com/noisytoot/mq" title="GitLab">GitLab</a></p>
 
   </section>
