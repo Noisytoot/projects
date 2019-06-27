@@ -3,13 +3,36 @@
 #+DRAFT: false
 A program that asks you maths questions, written in [[https://perl6.org/][Perl 6]], and licensed under the GNU GPL v3.0
 
-Installation instructions for Linux:
+* Installation instructions
+** for Unix-like operating systems (like Linux, BSD, Mac OS X)
+*** Using git
+Install mq using:
+
 {{< highlight shell >}}
+cd ~
 git clone https://github.com/Noisytoot/mq
 cd mq
-chmod +x mq.p6
 ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this
 mkdir ~/.mq
 {{< / highlight >}}
+Update mq using:
+
+{{< highlight shell >}}
+cd ~/mq
+git pull
+{{< / highlight >}}
+
+*** Using wget
+Install, and update mq using:
+
+{{< highlight shell >}}
+cd /usr/local # Replace /usr/local with where you want to install mq
+wget https://raw.githubusercontent.com/Noisytoot/mq/master/mq.p6 -O mq # You may need root permissions to run this
+chmod +x mq
+{{< / highlight >}}
+
+** For other operating systems (like Windows)
+I do not currently have instructions for other operating systems, but basically you need to download mq.p6, add executable permissions if the OS has them, and put it into your PATH
+
 [[https://github.com/Noisytoot/mq][GitHub]]
 [[https://gitlab.com/noisytoot/mq][GitLab]]
