@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>noisytoot</title>
-    <link>https://projects.noisytoot.org/</link>
-    <description>Recent content on noisytoot</description>
+    <title>about on noisytoot</title>
+    <link>https://projects.noisytoot.org/categories/about/</link>
+    <description>Recent content in about on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Jun 2019 09:49:02 +0100</lastBuildDate>
     
-	<atom:link href="https://projects.noisytoot.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://projects.noisytoot.org/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

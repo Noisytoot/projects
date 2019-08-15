@@ -17,10 +17,7 @@
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
       
       <guid>https://projects.noisytoot.org/post/mq/</guid>
-      <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0
-Installation instructions for Unix-like operating systems (like Linux, BSD, Mac OS X) Using git Install mq using:
-cd ~ git clone https://github.com/Noisytoot/mq cd mq ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this mkdir ~/.mq Update mq using:
-cd ~/mq git pull Using wget Install, and update mq using:</description>
+      <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0 Installation instructions  for Unix-like operating systems (like Linux, BSD, Mac OS X)  Using git   Install mq using: cd ~ git clone https://github.com/Noisytoot/mq cd mq ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this mkdir ~/.</description>
     </item>
     
   </channel>
