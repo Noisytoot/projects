@@ -4,3 +4,5 @@ title = "noisytoot"
 theme = "base16"
 markup = "org"
 pygmentsuseclasses = true
+pygmentscodefences = true
+pygmentsUseClassic = true
