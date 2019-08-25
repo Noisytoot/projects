@@ -1,2 +1,7 @@
 #+TITLE: A website for my projects
 #+AUTHOR: noisytoot
+
+To build:
+#+BEGIN_SRC sh
+hugo
+#+END_SRC
