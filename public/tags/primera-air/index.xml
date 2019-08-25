@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primera Air on noisytoot</title>
+    <link>/tags/primera-air/</link>
+    <description>Recent content in Primera Air on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 12:57:57 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/primera-air/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primera Air Is Not a Bear 🐻</title>
+      <link>/post/primera-air-is-not-a-bear/</link>
+      <pubDate>Sun, 25 Aug 2019 12:57:57 +0100</pubDate>
+      
+      <guid>/post/primera-air-is-not-a-bear/</guid>
+      <description>  Primera Air is not a bear 🐻 It flies through the air As if without a care And yet they do care Though not enough To plan adequate water supplies    </description>
+    </item>
+    
+  </channel>
+</rss>

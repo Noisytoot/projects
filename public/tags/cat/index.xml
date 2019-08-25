@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cat on noisytoot</title>
+    <link>/tags/cat/</link>
+    <description>Recent content in cat on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 13:27:06 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Cat Sat on the Mat</title>
+      <link>/post/the-cat-sat-on-the-mat/</link>
+      <pubDate>Sun, 25 Aug 2019 13:27:06 +0100</pubDate>
+      
+      <guid>/post/the-cat-sat-on-the-mat/</guid>
+      <description> The cat
+Sat
+On the mat
+With the rat
+And the bat
+Who had a hat
+And was called Nat
+And was also very fat </description>
+    </item>
+    
+  </channel>
+</rss>

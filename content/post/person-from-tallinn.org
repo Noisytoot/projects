@@ -1,0 +1,11 @@
+#+TITLE: Person From Tallinn
+#+DATE: 2019-08-25T12:40:46+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems limericks
+#+TAGS[]: Tallinn Estonia
+
+There was once a person from Tallinn\\
+Who didn't much care for old Stalin\\
+He/she logged into root\\
+And started to toot\\
+That musical person from Tallinn

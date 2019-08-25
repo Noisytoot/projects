@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beard on noisytoot</title>
+    <link>/tags/beard/</link>
+    <description>Recent content in beard on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 12:53:38 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/beard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Man With a Beard</title>
+      <link>/post/man-with-a-beard/</link>
+      <pubDate>Sun, 25 Aug 2019 12:53:38 +0100</pubDate>
+      
+      <guid>/post/man-with-a-beard/</guid>
+      <description> There was an old man with a beard
+Who said it is just as I feared
+Two larks and a hen
+Who had a ball pen
+Just signed their name on my beard </description>
+    </item>
+    
+  </channel>
+</rss>

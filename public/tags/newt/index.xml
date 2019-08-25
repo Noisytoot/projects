@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>newt on noisytoot</title>
+    <link>/tags/newt/</link>
+    <description>Recent content in newt on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 13:38:36 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/newt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Newt</title>
+      <link>/post/new-newt/</link>
+      <pubDate>Sun, 25 Aug 2019 13:38:36 +0100</pubDate>
+      
+      <guid>/post/new-newt/</guid>
+      <description> I knew
+A new
+Newt
+Who liked to hoot </description>
+    </item>
+    
+  </channel>
+</rss>

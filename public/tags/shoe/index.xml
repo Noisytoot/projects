@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoe on noisytoot</title>
+    <link>/tags/shoe/</link>
+    <description>Recent content in shoe on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 13:30:17 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/shoe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shoe</title>
+      <link>/post/shoe/</link>
+      <pubDate>Sun, 25 Aug 2019 13:30:17 +0100</pubDate>
+      
+      <guid>/post/shoe/</guid>
+      <description>  There was once a shoe Who was pale blue  He went to buy some cheese then he bought some peas  He then put on his jeans and gave his friend some beans   </description>
+    </item>
+    
+  </channel>
+</rss>

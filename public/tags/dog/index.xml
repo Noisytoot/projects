@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dog on noisytoot</title>
+    <link>/tags/dog/</link>
+    <description>Recent content in dog on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 13:37:23 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Dog Went to the Bog</title>
+      <link>/post/the-dog-went-to-the-bog/</link>
+      <pubDate>Sun, 25 Aug 2019 13:37:23 +0100</pubDate>
+      
+      <guid>/post/the-dog-went-to-the-bog/</guid>
+      <description> The dog
+Went to the bog
+With a log
+And a cog
+For a jog </description>
+    </item>
+    
+  </channel>
+</rss>

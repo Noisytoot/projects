@@ -1,0 +1,12 @@
+#+TITLE: As Snug as a Bug in a Rug
+#+DATE: 2019-08-25T13:33:58+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems
+#+TAGS[]: snug bug rug
+
+As snug as a bug in a rug\\
+Or as a smug pug in a mug\\
+Or a fug pug in a jug\\
+You can pour the pug\\
+From the jug\\
+To the mug.

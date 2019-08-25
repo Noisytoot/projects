@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on noisytoot</title>
-    <link>https://projects.noisytoot.org/tags/project/</link>
+    <link>/tags/project/</link>
     <description>Recent content in project on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Jun 2019 09:49:02 +0100</lastBuildDate>
     
-	<atom:link href="https://projects.noisytoot.org/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mq</title>
-      <link>https://projects.noisytoot.org/post/mq/</link>
+      <link>/post/mq/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
       
-      <guid>https://projects.noisytoot.org/post/mq/</guid>
+      <guid>/post/mq/</guid>
       <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0 Installation instructions  for Unix-like operating systems (like Linux, BSD, Mac OS X)  Using git   Install mq using: cd ~ git clone https://github.com/Noisytoot/mq cd mq ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this mkdir ~/.</description>
     </item>
     

@@ -2,7 +2,7 @@
 #+DATE: 2019-06-26T09:49:02+01:00
 #+DRAFT: false
 #+CATEGORIES[]: about
-#+TAGS[]: project mq perl6 maths
+#+TAGS[]: project mq perl6 maths program
 
 A program that asks you maths questions, written in [[https://perl6.org/][Perl 6]], and licensed under the GNU GPL v3.0
 

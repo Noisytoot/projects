@@ -1,0 +1,11 @@
+#+TITLE: The Dog Went to the Bog
+#+DATE: 2019-08-25T13:37:23+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems
+#+TAGS[]: dog bog
+
+The dog\\
+Went to the bog\\
+With a log\\
+And a cog\\
+For a jog

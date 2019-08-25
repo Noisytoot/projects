@@ -1,0 +1,13 @@
+---
+title: "Man From David Street 3"
+date: 2019-08-25T12:48:40+01:00
+draft: false
+categories: ["poems", "limericks"]
+tags: ["David Street"]
+---
+
+There was once a man from David Street\\
+He liked his chocolate treat\\
+He learnt how to rhyme\\
+And committed no crime\\
+That innocent man from David Street

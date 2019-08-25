@@ -1,0 +1,11 @@
+#+TITLE: Man With a Beard
+#+DATE: 2019-08-25T12:53:38+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems limericks
+#+TAGS[]: beard
+
+There was an old man with a beard\\
+Who said it is just as I feared\\
+Two larks and a hen\\
+Who had a ball pen\\
+Just signed their name on my beard

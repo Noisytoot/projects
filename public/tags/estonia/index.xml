@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estonia on noisytoot</title>
+    <link>/tags/estonia/</link>
+    <description>Recent content in Estonia on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 12:55:53 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/estonia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Man From Estonia</title>
+      <link>/post/man-from-estonia/</link>
+      <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
+      
+      <guid>/post/man-from-estonia/</guid>
+      <description> Man from Estonia
+There was once was a man from Estonia
+Who said he had never felt lonelier
+Then he went to UK
+And since was OK
+That ex-lonely man from Estonia </description>
+    </item>
+    
+    <item>
+      <title>Person From Tallinn</title>
+      <link>/post/person-from-tallinn/</link>
+      <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
+      
+      <guid>/post/person-from-tallinn/</guid>
+      <description> There was once a person from Tallinn
+Who didn&amp;#39;t much care for old Stalin
+He/she logged into root
+And started to toot
+That musical person from Tallinn </description>
+    </item>
+    
+  </channel>
+</rss>

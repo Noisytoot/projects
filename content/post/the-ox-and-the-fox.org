@@ -1,0 +1,11 @@
+#+TITLE: The Ox and the Fox
+#+DATE: 2019-08-25T13:23:56+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems
+#+TAGS[]: ox fox
+
+The ox and the fox\\
+Were sitting on the rocks\\
+They found a box of socks\\
+They had a lot of locks
+

@@ -1,0 +1,15 @@
+---
+title: "Man From David Street 2"
+date: 2019-08-25T12:48:38+01:00
+draft: false
+categories: ["poems", "limericks"]
+tags: ["David Street"]
+---
+
+Man from David Street 2\\
+Who wanted to go to the loo\\
+He took so long\\
+That he missed ping pong\\
+This mysterious[fn:1] man from David Street 2
+
+[fn:1] 2 David Street does not exist

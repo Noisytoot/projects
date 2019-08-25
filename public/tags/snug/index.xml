@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snug on noisytoot</title>
+    <link>/tags/snug/</link>
+    <description>Recent content in snug on noisytoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Aug 2019 13:33:58 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/snug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>As Snug as a Bug in a Rug</title>
+      <link>/post/as-snug-as-a-bug-in-a-rug/</link>
+      <pubDate>Sun, 25 Aug 2019 13:33:58 +0100</pubDate>
+      
+      <guid>/post/as-snug-as-a-bug-in-a-rug/</guid>
+      <description> As snug as a bug in a rug
+Or as a smug pug in a mug
+Or a fug pug in a jug
+You can pour the pug
+From the jug
+To the mug. </description>
+    </item>
+    
+  </channel>
+</rss>
