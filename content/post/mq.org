@@ -39,3 +39,4 @@ I do not currently have instructions for other operating systems, but basically 
 
 [[https://github.com/Noisytoot/mq][GitHub]]
 [[https://gitlab.com/noisytoot/mq][GitLab]]
+[[https://git.noisytoot.org/noisytoot/mq][Noisytoot Git]]
