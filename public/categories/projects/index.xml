@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>perl6 on noisytoot</title>
-    <link>/tags/perl6/</link>
-    <description>Recent content in perl6 on noisytoot</description>
+    <title>projects on noisytoot</title>
+    <link>/categories/projects/</link>
+    <description>Recent content in projects on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 26 Jun 2019 09:49:02 +0100</lastBuildDate>
     
-	<atom:link href="/tags/perl6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -39,11 +39,29 @@
     </item>
     
     <item>
+      <title>documentation</title>
+      <link>/categories/documentation/</link>
+      <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
+      
+      <guid>/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>programs</title>
       <link>/categories/programs/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
       
       <guid>/categories/programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>/categories/projects/</link>
+      <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
+      
+      <guid>/categories/projects/</guid>
       <description></description>
     </item>
     

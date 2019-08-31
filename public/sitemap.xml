@@ -218,6 +218,11 @@
   </url>
   
   <url>
+    <loc>/categories/documentation/</loc>
+    <lastmod>2019-06-26T09:49:02+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/maths/</loc>
     <lastmod>2019-06-26T09:49:02+01:00</lastmod>
   </url>
@@ -243,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/tags/project/</loc>
+    <loc>/categories/projects/</loc>
     <lastmod>2019-06-26T09:49:02+01:00</lastmod>
   </url>
   

@@ -1,41 +1,83 @@
 #+TITLE: mq
 #+DATE: 2019-06-26T09:49:02+01:00
 #+DRAFT: false
-#+CATEGORIES[]: about programs
-#+TAGS[]: project mq perl6 maths
+#+CATEGORIES[]: about programs documentation projects
+#+TAGS[]: mq perl6 maths
 
 A program that asks you maths questions, written in [[https://perl6.org/][Perl 6]], and licensed under the GNU GPL v3.0
 
+This file is about mq version 1.3.2, but the installation instructions will install the latest version
+
+* What is mq?
+  mq is a program that asks you maths questions
+
+* How to use?
+  ~mq <mode> <max>~
+  - Mode "level1" :: Addition, subtraction
+  - Mode "level2" :: Multiplication, division
+  - Mode "get-group" :: Get the group length
+  - Mode "get-max" :: Get the maximum number
+  - Optional named argument "disable-log" :: Disable the log file
+  Example: ~mq --disable-log level1 10~
+
+* Configuration file
+** Where is the configuration file?
+   The location is set in the environment variable $MQ_CONFIG, if $MQ_CONFIG does not exist then it is in ~/.mq/config.toml
+
+** What format is it in?
+   It is written in TOML 0.4.0
+
+** What keys/sections are there?
+*** The section "mq"
+    - The integer "group" :: The length of the group, can be set to any integer
+
+** What does it look like?
+   #+BEGIN_SRC toml
+   [mq]
+   group = 20
+   length = 10
+   #+END_SRC
+
+* Log file
+** Where is the log file?
+   The location is set in the environment variable $MQ_LOG, if $MQ_LOG does not exist then it is in ~/.mq/log.slf
+
+** What format is it in?
+   SLF (The Simple Log Format), basically CSV/DSV separated with spaces
+
 * Installation instructions
-** for Unix-like operating systems (like Linux, BSD, Mac OS X)
+  These instructions use GitHub, but you can use GitLab or Noisytoot Git instead, by replacing the URI you get mq from
+
+** for UNIX and UNIX-like operating systems (like Linux, BSD, Mac OS X)
 *** Using git
-Install mq using:
-
-#+BEGIN_SRC shell
-cd ~
-git clone https://github.com/Noisytoot/mq
-cd mq
-ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this
-mkdir ~/.mq
-#+END_SRC shell
-Update mq using:
-
-#+BEGIN_SRC shell
-cd ~/mq
-git pull
-#+END_SRC shell
+    Install mq:
+    
+    #+BEGIN_SRC shell
+    cd ~
+    git clone https://github.com/Noisytoot/mq
+    cd mq
+    ln -s $PWD/mq.p6 /usr/local/bin/mq # Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this
+    mkdir ~/.mq
+    #+END_SRC shell
+    Update mq:
+    
+    #+BEGIN_SRC shell
+    cd ~/mq
+    git pull
+    #+END_SRC shell
 
 *** Using wget
-Install, and update mq using:
-
-#+BEGIN_SRC shell
-cd /usr/local # Replace /usr/local with where you want to install mq
-wget https://raw.githubusercontent.com/Noisytoot/mq/master/mq.p6 -O mq # You may need root permissions to run this
-chmod +x mq
-#+END_SRC shell
+    Install, and update mq:
+    
+    #+BEGIN_SRC shell
+    cd /usr/local # Replace /usr/local with where you want to install mq
+    wget https://raw.githubusercontent.com/Noisytoot/mq/master/mq.p6 -O mq # You may need root permissions to run this
+    chmod +x mq
+    #+END_SRC shell
 
 ** For other operating systems (like Windows)
-I do not currently have instructions for other operating systems, but basically you need to download mq.p6, add executable permissions if the OS has them, and put it into your PATH
+   I do not currently have instructions for other operating systems,
+   but basically you need to download mq.p6, add executable permissions if the OS has them, and put it into your PATH
 
 [[https://github.com/Noisytoot/mq][GitHub]]
 [[https://gitlab.com/noisytoot/mq][GitLab]]
