@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="description" content="">
-<meta name="generator" content="Hugo 0.57.2" />
+<meta name="generator" content="Hugo 0.58.2" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/style.css" type="text/css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" type="text/css">
@@ -84,35 +84,45 @@ How to use?
 </p>
 <dl>
 <dt>
-Mode &#34;level1&#34;<dd>
+Mode &#34;level1&#34;
+</dt>
+<dd>
 <p>
 Addition, subtraction
 </p>
-<dd>
+</dd>
 <dt>
-Mode &#34;level2&#34;<dd>
+Mode &#34;level2&#34;
+</dt>
+<dd>
 <p>
 Multiplication, division
 </p>
-<dd>
+</dd>
 <dt>
-Mode &#34;get-group&#34;<dd>
+Mode &#34;get-group&#34;
+</dt>
+<dd>
 <p>
 Get the group length
 </p>
-<dd>
+</dd>
 <dt>
-Mode &#34;get-max&#34;<dd>
+Mode &#34;get-max&#34;
+</dt>
+<dd>
 <p>
 Get the maximum number
 </p>
-<dd>
+</dd>
 <dt>
-Optional named argument &#34;disable-log&#34;<dd>
+Optional named argument &#34;disable-log&#34;
+</dt>
+<dd>
 <p>
 Disable the log file
 </p>
-<dd>
+</dd>
 </dl>
 <p>
 Example: <code>mq --disable-log level1 10</code>
@@ -140,11 +150,13 @@ The section &#34;mq&#34;
 </h3>
 <dl>
 <dt>
-The integer &#34;group&#34;<dd>
+The integer &#34;group&#34;
+</dt>
+<dd>
 <p>
 The length of the group, can be set to any integer
 </p>
-<dd>
+</dd>
 </dl>
 <h2 id="headline-8">
 What does it look like?
@@ -188,7 +200,7 @@ Install mq:
 </p>
 <div class="src src-shell">
 <div class="highlight"><pre><code class="language-shell" data-lang="shell"><span></span><span class="nb">cd</span> ~
-git clone https://github.com/Noisytoot/mq
+git clone https://github.com/Noisytoot/mq.git
 <span class="nb">cd</span> mq
 ln -s <span class="nv">$PWD</span>/mq.p6 /usr/local/bin/mq <span class="c1"># Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this</span>
 mkdir ~/.mq
