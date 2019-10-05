@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:44:32 +0100</lastBuildDate>
     
-	<atom:link href="/tags/smug/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/smug/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,23 +19,31 @@
       <pubDate>Sun, 25 Aug 2019 13:44:32 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-3/</guid>
-      <description>The mug
-Was fug,
-The pug
-Was smug
-And the jug
-Was fug.
-The pug said &amp;#34;I am smug&amp;#34;,
-The mug said &amp;#34;I am fug&amp;#34;
-And the jug said &amp;#34;I am also fug&amp;#34;.
-When the pug got transferred from the mug
-To the jug
-The pug
-became fug,
-The jug became smug,
-And the mug became smug.
-The pug said &amp;#34;I am fug&amp;#34;,
-The mug said &amp;#34;I am smug&amp;#34;</description>
+      <description>&lt;p&gt;
+The mug&lt;br&gt;
+Was fug,&lt;br&gt;
+The pug&lt;br&gt;
+Was smug&lt;br&gt;
+And the jug&lt;br&gt;
+Was fug.&lt;br&gt;
+The pug said &amp;#34;I am smug&amp;#34;,&lt;br&gt;
+The mug said &amp;#34;I am fug&amp;#34;&lt;br&gt;
+And the jug said &amp;#34;I am also fug&amp;#34;.&lt;br&gt;
+When the pug got transferred from the mug&lt;br&gt;
+To the jug&lt;br&gt;
+The pug&lt;br&gt;
+became fug,&lt;br&gt;
+The jug became smug,&lt;br&gt;
+And the mug became smug.&lt;br&gt;
+The pug said &amp;#34;I am fug&amp;#34;,&lt;br&gt;
+The mug said &amp;#34;I am smug&amp;#34;&lt;br&gt;
+And the jug said &amp;#34;I am also smug&amp;#34;.&lt;br&gt;
+The bug&lt;br&gt;
+In the rug&lt;br&gt;
+Said &amp;#34;I am a smug bug in a rug&amp;#34;&lt;br&gt;
+Then later said &amp;#34;I am a fug bug in a rug&amp;#34;.
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,21 +52,25 @@ The mug said &amp;#34;I am smug&amp;#34;</description>
       <pubDate>Sun, 25 Aug 2019 13:41:50 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-2/</guid>
-      <description>The smug pug
-Who was in the mug
-Said &amp;#34;I am smug&amp;#34;
-Then the pug said &amp;#34;I am in the mug&amp;#34;
-The pug was transferred from the Mug
-to the jug
-And the pug
-Was fug
-And in a jug
-The pug said &amp;#34;I am fug&amp;#34;
-And then said &amp;#34;I am in a jug&amp;#34;.
-The bug
-In the rug
-Said &amp;#34;I am a bug&amp;#34;
-Then also said &amp;#34;I am in a rug&amp;#34;</description>
+      <description>&lt;p&gt;
+The smug pug&lt;br&gt;
+Who was in the mug&lt;br&gt;
+Said &amp;#34;I am smug&amp;#34;&lt;br&gt;
+Then the pug said &amp;#34;I am in the mug&amp;#34;&lt;br&gt;
+The pug was transferred from the Mug&lt;br&gt;
+to the jug&lt;br&gt;
+And the pug&lt;br&gt;
+Was fug&lt;br&gt;
+And in a jug&lt;br&gt;
+The pug said &amp;#34;I am fug&amp;#34;&lt;br&gt;
+And then said &amp;#34;I am in a jug&amp;#34;.&lt;br&gt;
+The bug&lt;br&gt;
+In the rug&lt;br&gt;
+Said &amp;#34;I am a bug&amp;#34;&lt;br&gt;
+Then also said &amp;#34;I am in a rug&amp;#34;&lt;br&gt;
+And &amp;#34;A tug boat is brilliant&amp;#34;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

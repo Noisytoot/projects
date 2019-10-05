@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 14:00:29 +0100</lastBuildDate>
     
-	<atom:link href="/tags/sats/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/sats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,7 +19,25 @@
       <pubDate>Sun, 25 Aug 2019 14:00:29 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/sats/</guid>
-      <description>  The fat Cats, Rats And Bats Sat on the SATs That sat on the Mats And liked Pats Then the Cat Who was called Pat Sat On the Mat With the Rat, Bat And SAT.   </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    The fat Cats,&lt;br/&gt;
+    Rats&lt;br/&gt;
+    And Bats&lt;br/&gt;
+    Sat on the &lt;abbr title=&#34;Standard Attainment Tests&#34;&gt;SATs&lt;/abbr&gt;&lt;br/&gt;
+    That sat on the Mats&lt;br/&gt;
+    And liked Pats&lt;br/&gt;
+    Then the Cat&lt;br/&gt;
+    Who was called Pat&lt;br/&gt;
+    Sat&lt;br/&gt;
+    On the Mat&lt;br/&gt;
+    With the Rat,&lt;br/&gt;
+    Bat&lt;br/&gt;
+    And &lt;abbr title=&#34;Standard Attainment Test&#34;&gt;SAT&lt;/abbr&gt;.
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
   </channel>

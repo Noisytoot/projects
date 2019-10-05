@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 12:55:53 +0100</lastBuildDate>
     
-	<atom:link href="/categories/limericks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/limericks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,11 +19,14 @@
       <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-estonia/</guid>
-      <description> There was once was a man from Estonia
-Who said he had never felt lonelier
-Then he went to UK
-And since was OK
-That ex-lonely man from Estonia </description>
+      <description>&lt;p&gt;
+There was once was a man from Estonia&lt;br&gt;
+Who said he had never felt lonelier&lt;br&gt;
+Then he went to UK&lt;br&gt;
+And since was OK&lt;br&gt;
+That ex-lonely man from Estonia
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,11 +35,14 @@ That ex-lonely man from Estonia </description>
       <pubDate>Sun, 25 Aug 2019 12:53:38 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-with-a-beard/</guid>
-      <description> There was an old man with a beard
-Who said it is just as I feared
-Two larks and a hen
-Who had a ball pen
-Just signed their name on my beard </description>
+      <description>&lt;p&gt;
+There was an old man with a beard&lt;br&gt;
+Who said it is just as I feared&lt;br&gt;
+Two larks and a hen&lt;br&gt;
+Who had a ball pen&lt;br&gt;
+Just signed their name on my beard
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,11 +51,14 @@ Just signed their name on my beard </description>
       <pubDate>Sun, 25 Aug 2019 12:48:40 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-3/</guid>
-      <description> There was once a man from David Street
-He liked his chocolate treat
-He learnt how to rhyme
-And committed no crime
-That innocent man from David Street </description>
+      <description>&lt;p&gt;
+There was once a man from David Street&lt;br&gt;
+He liked his chocolate treat&lt;br&gt;
+He learnt how to rhyme&lt;br&gt;
+And committed no crime&lt;br&gt;
+That innocent man from David Street
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,11 +67,27 @@ That innocent man from David Street </description>
       <pubDate>Sun, 25 Aug 2019 12:48:38 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-2/</guid>
-      <description> Man from David Street 2
-Who wanted to go to the loo
-He took so long
-That he missed ping pong
-This mysterious1 man from David Street 2 1  2 David Street does not exist     </description>
+      <description>&lt;p&gt;
+Man from David Street 2&lt;br&gt;
+Who wanted to go to the loo&lt;br&gt;
+He took so long&lt;br&gt;
+That he missed ping pong&lt;br&gt;
+This mysterious&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; man from David Street 2
+&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;
+2 David Street does not exist
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -71,11 +96,14 @@ This mysterious1 man from David Street 2 1  2 David Street does not exist     </
       <pubDate>Sun, 25 Aug 2019 12:46:05 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street/</guid>
-      <description> There was a young man from David Street
-It is someone you would like to meet
-His name starts from &amp;#34;R&amp;#34;
-He rides in a green car
-Guess who is this man from David Street </description>
+      <description>&lt;p&gt;
+There was a young man from David Street&lt;br&gt;
+It is someone you would like to meet&lt;br&gt;
+His name starts from &amp;#34;R&amp;#34;&lt;br&gt;
+He rides in a green car&lt;br&gt;
+Guess who is this man from David Street
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,11 +112,14 @@ Guess who is this man from David Street </description>
       <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/person-from-tallinn/</guid>
-      <description> There was once a person from Tallinn
-Who didn&amp;#39;t much care for old Stalin
-He/she logged into root
-And started to toot
-That musical person from Tallinn </description>
+      <description>&lt;p&gt;
+There was once a person from Tallinn&lt;br&gt;
+Who didn&amp;#39;t much care for old Stalin&lt;br&gt;
+He/she logged into root&lt;br&gt;
+And started to toot&lt;br&gt;
+That musical person from Tallinn
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

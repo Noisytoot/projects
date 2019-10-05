@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 12:55:53 +0100</lastBuildDate>
     
-	<atom:link href="/tags/estonia/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/estonia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,11 +19,14 @@
       <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-estonia/</guid>
-      <description> There was once was a man from Estonia
-Who said he had never felt lonelier
-Then he went to UK
-And since was OK
-That ex-lonely man from Estonia </description>
+      <description>&lt;p&gt;
+There was once was a man from Estonia&lt;br&gt;
+Who said he had never felt lonelier&lt;br&gt;
+Then he went to UK&lt;br&gt;
+And since was OK&lt;br&gt;
+That ex-lonely man from Estonia
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,11 +35,14 @@ That ex-lonely man from Estonia </description>
       <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/person-from-tallinn/</guid>
-      <description> There was once a person from Tallinn
-Who didn&amp;#39;t much care for old Stalin
-He/she logged into root
-And started to toot
-That musical person from Tallinn </description>
+      <description>&lt;p&gt;
+There was once a person from Tallinn&lt;br&gt;
+Who didn&amp;#39;t much care for old Stalin&lt;br&gt;
+He/she logged into root&lt;br&gt;
+And started to toot&lt;br&gt;
+That musical person from Tallinn
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

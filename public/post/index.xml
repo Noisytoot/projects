@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 14:00:29 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,7 +19,25 @@
       <pubDate>Sun, 25 Aug 2019 14:00:29 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/sats/</guid>
-      <description>  The fat Cats, Rats And Bats Sat on the SATs That sat on the Mats And liked Pats Then the Cat Who was called Pat Sat On the Mat With the Rat, Bat And SAT.   </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    The fat Cats,&lt;br/&gt;
+    Rats&lt;br/&gt;
+    And Bats&lt;br/&gt;
+    Sat on the &lt;abbr title=&#34;Standard Attainment Tests&#34;&gt;SATs&lt;/abbr&gt;&lt;br/&gt;
+    That sat on the Mats&lt;br/&gt;
+    And liked Pats&lt;br/&gt;
+    Then the Cat&lt;br/&gt;
+    Who was called Pat&lt;br/&gt;
+    Sat&lt;br/&gt;
+    On the Mat&lt;br/&gt;
+    With the Rat,&lt;br/&gt;
+    Bat&lt;br/&gt;
+    And &lt;abbr title=&#34;Standard Attainment Test&#34;&gt;SAT&lt;/abbr&gt;.
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
@@ -28,23 +46,31 @@
       <pubDate>Sun, 25 Aug 2019 13:44:32 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-3/</guid>
-      <description>The mug
-Was fug,
-The pug
-Was smug
-And the jug
-Was fug.
-The pug said &amp;#34;I am smug&amp;#34;,
-The mug said &amp;#34;I am fug&amp;#34;
-And the jug said &amp;#34;I am also fug&amp;#34;.
-When the pug got transferred from the mug
-To the jug
-The pug
-became fug,
-The jug became smug,
-And the mug became smug.
-The pug said &amp;#34;I am fug&amp;#34;,
-The mug said &amp;#34;I am smug&amp;#34;</description>
+      <description>&lt;p&gt;
+The mug&lt;br&gt;
+Was fug,&lt;br&gt;
+The pug&lt;br&gt;
+Was smug&lt;br&gt;
+And the jug&lt;br&gt;
+Was fug.&lt;br&gt;
+The pug said &amp;#34;I am smug&amp;#34;,&lt;br&gt;
+The mug said &amp;#34;I am fug&amp;#34;&lt;br&gt;
+And the jug said &amp;#34;I am also fug&amp;#34;.&lt;br&gt;
+When the pug got transferred from the mug&lt;br&gt;
+To the jug&lt;br&gt;
+The pug&lt;br&gt;
+became fug,&lt;br&gt;
+The jug became smug,&lt;br&gt;
+And the mug became smug.&lt;br&gt;
+The pug said &amp;#34;I am fug&amp;#34;,&lt;br&gt;
+The mug said &amp;#34;I am smug&amp;#34;&lt;br&gt;
+And the jug said &amp;#34;I am also smug&amp;#34;.&lt;br&gt;
+The bug&lt;br&gt;
+In the rug&lt;br&gt;
+Said &amp;#34;I am a smug bug in a rug&amp;#34;&lt;br&gt;
+Then later said &amp;#34;I am a fug bug in a rug&amp;#34;.
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,21 +79,25 @@ The mug said &amp;#34;I am smug&amp;#34;</description>
       <pubDate>Sun, 25 Aug 2019 13:41:50 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-2/</guid>
-      <description>The smug pug
-Who was in the mug
-Said &amp;#34;I am smug&amp;#34;
-Then the pug said &amp;#34;I am in the mug&amp;#34;
-The pug was transferred from the Mug
-to the jug
-And the pug
-Was fug
-And in a jug
-The pug said &amp;#34;I am fug&amp;#34;
-And then said &amp;#34;I am in a jug&amp;#34;.
-The bug
-In the rug
-Said &amp;#34;I am a bug&amp;#34;
-Then also said &amp;#34;I am in a rug&amp;#34;</description>
+      <description>&lt;p&gt;
+The smug pug&lt;br&gt;
+Who was in the mug&lt;br&gt;
+Said &amp;#34;I am smug&amp;#34;&lt;br&gt;
+Then the pug said &amp;#34;I am in the mug&amp;#34;&lt;br&gt;
+The pug was transferred from the Mug&lt;br&gt;
+to the jug&lt;br&gt;
+And the pug&lt;br&gt;
+Was fug&lt;br&gt;
+And in a jug&lt;br&gt;
+The pug said &amp;#34;I am fug&amp;#34;&lt;br&gt;
+And then said &amp;#34;I am in a jug&amp;#34;.&lt;br&gt;
+The bug&lt;br&gt;
+In the rug&lt;br&gt;
+Said &amp;#34;I am a bug&amp;#34;&lt;br&gt;
+Then also said &amp;#34;I am in a rug&amp;#34;&lt;br&gt;
+And &amp;#34;A tug boat is brilliant&amp;#34;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -76,10 +106,13 @@ Then also said &amp;#34;I am in a rug&amp;#34;</description>
       <pubDate>Sun, 25 Aug 2019 13:38:36 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/new-newt/</guid>
-      <description> I knew
-A new
-Newt
-Who liked to hoot </description>
+      <description>&lt;p&gt;
+I knew&lt;br&gt;
+A new&lt;br&gt;
+Newt&lt;br&gt;
+Who liked to hoot
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -88,11 +121,14 @@ Who liked to hoot </description>
       <pubDate>Sun, 25 Aug 2019 13:37:23 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-dog-went-to-the-bog/</guid>
-      <description> The dog
-Went to the bog
-With a log
-And a cog
-For a jog </description>
+      <description>&lt;p&gt;
+The dog&lt;br&gt;
+Went to the bog&lt;br&gt;
+With a log&lt;br&gt;
+And a cog&lt;br&gt;
+For a jog
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -101,12 +137,15 @@ For a jog </description>
       <pubDate>Sun, 25 Aug 2019 13:33:58 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/as-snug-as-a-bug-in-a-rug/</guid>
-      <description> As snug as a bug in a rug
-Or as a smug pug in a mug
-Or a fug pug in a jug
-You can pour the pug
-From the jug
-To the mug. </description>
+      <description>&lt;p&gt;
+As snug as a bug in a rug&lt;br&gt;
+Or as a smug pug in a mug&lt;br&gt;
+Or a fug pug in a jug&lt;br&gt;
+You can pour the pug&lt;br&gt;
+From the jug&lt;br&gt;
+To the mug.
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -115,7 +154,20 @@ To the mug. </description>
       <pubDate>Sun, 25 Aug 2019 13:30:17 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/shoe/</guid>
-      <description>  There was once a shoe Who was pale blue  He went to buy some cheese then he bought some peas  He then put on his jeans and gave his friend some beans   </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    There was once a shoe&lt;br/&gt;
+    Who was &lt;span style=&#34;color: #00FFFF; background-color: #000000;&#34;&gt;pale blue&lt;/span&gt;&lt;br/&gt;
+    &lt;br/&gt;
+    He went to buy some cheese&lt;br/&gt;
+    then he bought some peas&lt;br/&gt;
+    &lt;br/&gt;
+    He then put on his jeans&lt;br/&gt;
+    and gave his friend some beans&lt;br/&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
@@ -124,14 +176,17 @@ To the mug. </description>
       <pubDate>Sun, 25 Aug 2019 13:27:06 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-cat-sat-on-the-mat/</guid>
-      <description> The cat
-Sat
-On the mat
-With the rat
-And the bat
-Who had a hat
-And was called Nat
-And was also very fat </description>
+      <description>&lt;p&gt;
+The cat&lt;br&gt;
+Sat&lt;br&gt;
+On the mat&lt;br&gt;
+With the rat&lt;br&gt;
+And the bat&lt;br&gt;
+Who had a hat&lt;br&gt;
+And was called Nat&lt;br&gt;
+And was also very fat
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -140,10 +195,13 @@ And was also very fat </description>
       <pubDate>Sun, 25 Aug 2019 13:23:56 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-ox-and-the-fox/</guid>
-      <description> The ox and the fox
-Were sitting on the rocks
-They found a box of socks
-They had a lot of locks </description>
+      <description>&lt;p&gt;
+The ox and the fox&lt;br&gt;
+Were sitting on the rocks&lt;br&gt;
+They found a box of socks&lt;br&gt;
+They had a lot of locks
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -152,7 +210,20 @@ They had a lot of locks </description>
       <pubDate>Sun, 25 Aug 2019 12:57:57 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/primera-air-is-not-a-bear/</guid>
-      <description>  Primera Air is not a bear 🐻 It flies through the air As if without a care And yet they do care Though not enough To plan adequate water supplies    </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    &lt;div style=&#34;background-color: #FFFF00;&#34;&gt;
+      Primera Air is not a bear 🐻&lt;br/&gt;
+      It flies through the air&lt;br/&gt;
+      As if without a care&lt;br/&gt;
+      And yet they do care&lt;br/&gt;
+      Though not enough&lt;br/&gt;
+      To plan adequate water supplies
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
@@ -161,11 +232,14 @@ They had a lot of locks </description>
       <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-estonia/</guid>
-      <description> There was once was a man from Estonia
-Who said he had never felt lonelier
-Then he went to UK
-And since was OK
-That ex-lonely man from Estonia </description>
+      <description>&lt;p&gt;
+There was once was a man from Estonia&lt;br&gt;
+Who said he had never felt lonelier&lt;br&gt;
+Then he went to UK&lt;br&gt;
+And since was OK&lt;br&gt;
+That ex-lonely man from Estonia
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -174,11 +248,14 @@ That ex-lonely man from Estonia </description>
       <pubDate>Sun, 25 Aug 2019 12:53:38 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-with-a-beard/</guid>
-      <description> There was an old man with a beard
-Who said it is just as I feared
-Two larks and a hen
-Who had a ball pen
-Just signed their name on my beard </description>
+      <description>&lt;p&gt;
+There was an old man with a beard&lt;br&gt;
+Who said it is just as I feared&lt;br&gt;
+Two larks and a hen&lt;br&gt;
+Who had a ball pen&lt;br&gt;
+Just signed their name on my beard
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -187,11 +264,14 @@ Just signed their name on my beard </description>
       <pubDate>Sun, 25 Aug 2019 12:48:40 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-3/</guid>
-      <description> There was once a man from David Street
-He liked his chocolate treat
-He learnt how to rhyme
-And committed no crime
-That innocent man from David Street </description>
+      <description>&lt;p&gt;
+There was once a man from David Street&lt;br&gt;
+He liked his chocolate treat&lt;br&gt;
+He learnt how to rhyme&lt;br&gt;
+And committed no crime&lt;br&gt;
+That innocent man from David Street
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -200,11 +280,27 @@ That innocent man from David Street </description>
       <pubDate>Sun, 25 Aug 2019 12:48:38 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-2/</guid>
-      <description> Man from David Street 2
-Who wanted to go to the loo
-He took so long
-That he missed ping pong
-This mysterious1 man from David Street 2 1  2 David Street does not exist     </description>
+      <description>&lt;p&gt;
+Man from David Street 2&lt;br&gt;
+Who wanted to go to the loo&lt;br&gt;
+He took so long&lt;br&gt;
+That he missed ping pong&lt;br&gt;
+This mysterious&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; man from David Street 2
+&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;
+2 David Street does not exist
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -213,11 +309,14 @@ This mysterious1 man from David Street 2 1  2 David Street does not exist     </
       <pubDate>Sun, 25 Aug 2019 12:46:05 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street/</guid>
-      <description> There was a young man from David Street
-It is someone you would like to meet
-His name starts from &amp;#34;R&amp;#34;
-He rides in a green car
-Guess who is this man from David Street </description>
+      <description>&lt;p&gt;
+There was a young man from David Street&lt;br&gt;
+It is someone you would like to meet&lt;br&gt;
+His name starts from &amp;#34;R&amp;#34;&lt;br&gt;
+He rides in a green car&lt;br&gt;
+Guess who is this man from David Street
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -226,11 +325,14 @@ Guess who is this man from David Street </description>
       <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/person-from-tallinn/</guid>
-      <description> There was once a person from Tallinn
-Who didn&amp;#39;t much care for old Stalin
-He/she logged into root
-And started to toot
-That musical person from Tallinn </description>
+      <description>&lt;p&gt;
+There was once a person from Tallinn&lt;br&gt;
+Who didn&amp;#39;t much care for old Stalin&lt;br&gt;
+He/she logged into root&lt;br&gt;
+And started to toot&lt;br&gt;
+That musical person from Tallinn
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -239,7 +341,185 @@ That musical person from Tallinn </description>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/mq/</guid>
-      <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0  This file is about mq version 1.3.2, but the installation instructions will install the latest version What is mq?   mq is a program that asks you maths questions How to use?   mq &amp;lt;mode&amp;gt; &amp;lt;max&amp;gt;   Mode &amp;#34;level1&amp;#34;    Addition, subtraction   Mode &amp;#34;level2&amp;#34;    Multiplication, division   Mode &amp;#34;get-group&amp;#34;    Get the group length   Mode &amp;#34;get-max&amp;#34;    Get the maximum number   Optional named argument &amp;#34;disable-log&amp;#34;    Disable the log file    Example: mq --disable-log level1 10 Configuration file  Where is the configuration file?</description>
+      <description>
+&lt;p&gt;
+A program that asks you maths questions, written in &lt;a href=&#34;https://perl6.org/&#34;&gt;Perl 6&lt;/a&gt;, and licensed under the GNU GPL v3.0
+&lt;/p&gt;
+&lt;p&gt;
+This file is about mq version 1.3.2, but the installation instructions will install the latest version
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-1&#34;&gt;
+What is mq?
+&lt;/h1&gt;
+&lt;p&gt;
+mq is a program that asks you maths questions
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-2&#34;&gt;
+How to use?
+&lt;/h1&gt;
+&lt;p&gt;
+&lt;code&gt;mq &amp;lt;mode&amp;gt; &amp;lt;max&amp;gt;&lt;/code&gt;
+&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;
+Mode &amp;#34;level1&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Addition, subtraction
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+Mode &amp;#34;level2&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Multiplication, division
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+Mode &amp;#34;get-group&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Get the group length
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+Mode &amp;#34;get-max&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Get the maximum number
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+Optional named argument &amp;#34;disable-log&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Disable the log file
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;
+Example: &lt;code&gt;mq --disable-log level1 10&lt;/code&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-3&#34;&gt;
+Configuration file
+&lt;/h1&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Where is the configuration file?
+&lt;/h2&gt;
+&lt;p&gt;
+The location is set in the environment variable $MQ_CONFIG, if $MQ_CONFIG does not exist then it is in ~/.mq/config.toml
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+What format is it in?
+&lt;/h2&gt;
+&lt;p&gt;
+It is written in TOML 0.4.0
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-6&#34;&gt;
+What keys/sections are there?
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-7&#34;&gt;
+The section &amp;#34;mq&amp;#34;
+&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;
+The integer &amp;#34;group&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+The length of the group, can be set to any integer
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;headline-8&#34;&gt;
+What does it look like?
+&lt;/h2&gt;
+&lt;div class=&#34;src src-toml&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;[mq]&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;group&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;20&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;length&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;h1 id=&#34;headline-9&#34;&gt;
+Log file
+&lt;/h1&gt;
+&lt;h2 id=&#34;headline-10&#34;&gt;
+Where is the log file?
+&lt;/h2&gt;
+&lt;p&gt;
+The location is set in the environment variable $MQ_LOG, if $MQ_LOG does not exist then it is in ~/.mq/log.slf
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-11&#34;&gt;
+What format is it in?
+&lt;/h2&gt;
+&lt;p&gt;
+SLF (The Simple Log Format), basically CSV/DSV separated with spaces
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-12&#34;&gt;
+Installation instructions
+&lt;/h1&gt;
+&lt;p&gt;
+These instructions use GitHub, but you can use GitLab or Noisytoot Git instead, by replacing the URI you get mq from
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-13&#34;&gt;
+for UNIX and UNIX-like operating systems (like Linux, BSD, Mac OS X)
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-14&#34;&gt;
+Using git
+&lt;/h3&gt;
+&lt;p&gt;
+Install mq:
+&lt;/p&gt;
+&lt;div class=&#34;src src-shell&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; ~
+git clone https://github.com/Noisytoot/mq.git
+&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; mq
+ln -s &lt;span class=&#34;nv&#34;&gt;$PWD&lt;/span&gt;/mq.p6 /usr/local/bin/mq &lt;span class=&#34;c1&#34;&gt;# Replace /usr/local/bin/mq with where you want to install mq, you may need root permissions to run this&lt;/span&gt;
+mkdir ~/.mq
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;p&gt;
+Update mq:
+&lt;/p&gt;
+&lt;div class=&#34;src src-shell&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; ~/mq
+git pull
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&#34;headline-15&#34;&gt;
+Using wget
+&lt;/h3&gt;
+&lt;p&gt;
+Install, and update mq:
+&lt;/p&gt;
+&lt;div class=&#34;src src-shell&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; /usr/local &lt;span class=&#34;c1&#34;&gt;# Replace /usr/local with where you want to install mq&lt;/span&gt;
+wget https://raw.githubusercontent.com/Noisytoot/mq/master/mq.p6 -O mq &lt;span class=&#34;c1&#34;&gt;# You may need root permissions to run this&lt;/span&gt;
+chmod +x mq
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&#34;headline-16&#34;&gt;
+For other operating systems (like Windows)
+&lt;/h2&gt;
+&lt;p&gt;
+I do not currently have instructions for other operating systems,
+but basically you need to download mq.p6, add executable permissions if the OS has them, and put it into your PATH
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Noisytoot/mq&#34;&gt;GitHub&lt;/a&gt;
+&lt;a href=&#34;https://gitlab.com/noisytoot/mq&#34;&gt;GitLab&lt;/a&gt;
+&lt;a href=&#34;https://git.noisytoot.org/noisytoot/mq&#34;&gt;Noisytoot Git&lt;/a&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

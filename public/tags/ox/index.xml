@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:23:56 +0100</lastBuildDate>
     
-	<atom:link href="/tags/ox/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/ox/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,10 +19,13 @@
       <pubDate>Sun, 25 Aug 2019 13:23:56 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-ox-and-the-fox/</guid>
-      <description> The ox and the fox
-Were sitting on the rocks
-They found a box of socks
-They had a lot of locks </description>
+      <description>&lt;p&gt;
+The ox and the fox&lt;br&gt;
+Were sitting on the rocks&lt;br&gt;
+They found a box of socks&lt;br&gt;
+They had a lot of locks
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

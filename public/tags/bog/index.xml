@@ -10,7 +10,7 @@
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:37:23 +0100</lastBuildDate>
     
-	<atom:link href="/tags/bog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/bog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,11 +19,14 @@
       <pubDate>Sun, 25 Aug 2019 13:37:23 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-dog-went-to-the-bog/</guid>
-      <description> The dog
-Went to the bog
-With a log
-And a cog
-For a jog </description>
+      <description>&lt;p&gt;
+The dog&lt;br&gt;
+Went to the bog&lt;br&gt;
+With a log&lt;br&gt;
+And a cog&lt;br&gt;
+For a jog
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>
