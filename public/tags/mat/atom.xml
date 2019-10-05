@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[mat on noisytoot]]></title>
+    
+    
+    
+            <link href="/tags/mat/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/tags/mat/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
+            <link href="/tags/mat/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2019-10-05T20:08:43+01:00</updated>
+    
+    
+    <author>
+            <name>Noisytoot</name>
+            
+                <email>noisytoot@gmail.com</email>
+            </author>
+    
+        <id>/tags/mat/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[The Cat Sat on the Mat]]></title>
+            <link href="/post/the-cat-sat-on-the-mat/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/the-cat-sat-on-the-mat/</id>
+            
+            
+            <published>2019-08-25T13:27:06+01:00</published>
+            <updated>2019-08-25T13:27:06+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>
+The cat<br>
+Sat<br>
+On the mat<br>
+With the rat<br>
+And the bat<br>
+Who had a hat<br>
+And was called Nat<br>
+And was also very fat
+</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/cat" term="cat" label="cat" />
+                             
+                                <category scheme="/tags/mat" term="mat" label="mat" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

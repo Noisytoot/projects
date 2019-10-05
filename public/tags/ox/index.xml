@@ -6,6 +6,8 @@
     <description>Recent content in ox on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:23:56 +0100</lastBuildDate>
     
 	<atom:link href="/tags/ox/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Ox and the Fox</title>
       <link>/post/the-ox-and-the-fox/</link>
       <pubDate>Sun, 25 Aug 2019 13:23:56 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-ox-and-the-fox/</guid>
       <description> The ox and the fox
 Were sitting on the rocks

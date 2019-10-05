@@ -6,6 +6,8 @@
     <description>Recent content on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 14:00:29 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Standard Attainment Tests</title>
       <link>/post/sats/</link>
       <pubDate>Sun, 25 Aug 2019 14:00:29 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/sats/</guid>
       <description>  The fat Cats, Rats And Bats Sat on the SATs That sat on the Mats And liked Pats Then the Cat Who was called Pat Sat On the Mat With the Rat, Bat And SAT.   </description>
     </item>
@@ -24,7 +26,7 @@
       <title>Smug Pug in Mug 3</title>
       <link>/post/smug-pug-in-mug-3/</link>
       <pubDate>Sun, 25 Aug 2019 13:44:32 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-3/</guid>
       <description>The mug
 Was fug,
@@ -49,7 +51,7 @@ The mug said &amp;#34;I am smug&amp;#34;</description>
       <title>Smug Pug in Mug 2</title>
       <link>/post/smug-pug-in-mug-2/</link>
       <pubDate>Sun, 25 Aug 2019 13:41:50 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-2/</guid>
       <description>The smug pug
 Who was in the mug
@@ -72,7 +74,7 @@ Then also said &amp;#34;I am in a rug&amp;#34;</description>
       <title>New Newt</title>
       <link>/post/new-newt/</link>
       <pubDate>Sun, 25 Aug 2019 13:38:36 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/new-newt/</guid>
       <description> I knew
 A new
@@ -84,7 +86,7 @@ Who liked to hoot </description>
       <title>The Dog Went to the Bog</title>
       <link>/post/the-dog-went-to-the-bog/</link>
       <pubDate>Sun, 25 Aug 2019 13:37:23 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-dog-went-to-the-bog/</guid>
       <description> The dog
 Went to the bog
@@ -97,7 +99,7 @@ For a jog </description>
       <title>As Snug as a Bug in a Rug</title>
       <link>/post/as-snug-as-a-bug-in-a-rug/</link>
       <pubDate>Sun, 25 Aug 2019 13:33:58 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/as-snug-as-a-bug-in-a-rug/</guid>
       <description> As snug as a bug in a rug
 Or as a smug pug in a mug
@@ -111,7 +113,7 @@ To the mug. </description>
       <title>Shoe</title>
       <link>/post/shoe/</link>
       <pubDate>Sun, 25 Aug 2019 13:30:17 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/shoe/</guid>
       <description>  There was once a shoe Who was pale blue  He went to buy some cheese then he bought some peas  He then put on his jeans and gave his friend some beans   </description>
     </item>
@@ -120,7 +122,7 @@ To the mug. </description>
       <title>The Cat Sat on the Mat</title>
       <link>/post/the-cat-sat-on-the-mat/</link>
       <pubDate>Sun, 25 Aug 2019 13:27:06 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-cat-sat-on-the-mat/</guid>
       <description> The cat
 Sat
@@ -136,7 +138,7 @@ And was also very fat </description>
       <title>The Ox and the Fox</title>
       <link>/post/the-ox-and-the-fox/</link>
       <pubDate>Sun, 25 Aug 2019 13:23:56 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-ox-and-the-fox/</guid>
       <description> The ox and the fox
 Were sitting on the rocks
@@ -148,7 +150,7 @@ They had a lot of locks </description>
       <title>Primera Air Is Not a Bear 🐻</title>
       <link>/post/primera-air-is-not-a-bear/</link>
       <pubDate>Sun, 25 Aug 2019 12:57:57 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/primera-air-is-not-a-bear/</guid>
       <description>  Primera Air is not a bear 🐻 It flies through the air As if without a care And yet they do care Though not enough To plan adequate water supplies    </description>
     </item>
@@ -157,10 +159,9 @@ They had a lot of locks </description>
       <title>Man From Estonia</title>
       <link>/post/man-from-estonia/</link>
       <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-estonia/</guid>
-      <description> Man from Estonia
-There was once was a man from Estonia
+      <description> There was once was a man from Estonia
 Who said he had never felt lonelier
 Then he went to UK
 And since was OK
@@ -171,7 +172,7 @@ That ex-lonely man from Estonia </description>
       <title>Man With a Beard</title>
       <link>/post/man-with-a-beard/</link>
       <pubDate>Sun, 25 Aug 2019 12:53:38 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-with-a-beard/</guid>
       <description> There was an old man with a beard
 Who said it is just as I feared
@@ -184,7 +185,7 @@ Just signed their name on my beard </description>
       <title>Man From David Street 3</title>
       <link>/post/man-from-david-street-3/</link>
       <pubDate>Sun, 25 Aug 2019 12:48:40 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-3/</guid>
       <description> There was once a man from David Street
 He liked his chocolate treat
@@ -197,7 +198,7 @@ That innocent man from David Street </description>
       <title>Man From David Street 2</title>
       <link>/post/man-from-david-street-2/</link>
       <pubDate>Sun, 25 Aug 2019 12:48:38 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street-2/</guid>
       <description> Man from David Street 2
 Who wanted to go to the loo
@@ -210,7 +211,7 @@ This mysterious1 man from David Street 2 1  2 David Street does not exist     </
       <title>Man From David Street</title>
       <link>/post/man-from-david-street/</link>
       <pubDate>Sun, 25 Aug 2019 12:46:05 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-from-david-street/</guid>
       <description> There was a young man from David Street
 It is someone you would like to meet
@@ -223,7 +224,7 @@ Guess who is this man from David Street </description>
       <title>Person From Tallinn</title>
       <link>/post/person-from-tallinn/</link>
       <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/person-from-tallinn/</guid>
       <description> There was once a person from Tallinn
 Who didn&amp;#39;t much care for old Stalin
@@ -236,7 +237,7 @@ That musical person from Tallinn </description>
       <title>mq</title>
       <link>/post/mq/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/mq/</guid>
       <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0  This file is about mq version 1.3.2, but the installation instructions will install the latest version What is mq?   mq is a program that asks you maths questions How to use?   mq &amp;lt;mode&amp;gt; &amp;lt;max&amp;gt;   Mode &amp;#34;level1&amp;#34;    Addition, subtraction   Mode &amp;#34;level2&amp;#34;    Multiplication, division   Mode &amp;#34;get-group&amp;#34;    Get the group length   Mode &amp;#34;get-max&amp;#34;    Get the maximum number   Optional named argument &amp;#34;disable-log&amp;#34;    Disable the log file    Example: mq --disable-log level1 10 Configuration file  Where is the configuration file?</description>
     </item>

@@ -6,6 +6,8 @@
     <description>Recent content in bog on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:37:23 +0100</lastBuildDate>
     
 	<atom:link href="/tags/bog/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Dog Went to the Bog</title>
       <link>/post/the-dog-went-to-the-bog/</link>
       <pubDate>Sun, 25 Aug 2019 13:37:23 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-dog-went-to-the-bog/</guid>
       <description> The dog
 Went to the bog

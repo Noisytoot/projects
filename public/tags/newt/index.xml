@@ -6,6 +6,8 @@
     <description>Recent content in newt on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:38:36 +0100</lastBuildDate>
     
 	<atom:link href="/tags/newt/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>New Newt</title>
       <link>/post/new-newt/</link>
       <pubDate>Sun, 25 Aug 2019 13:38:36 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/new-newt/</guid>
       <description> I knew
 A new

@@ -6,6 +6,8 @@
     <description>Recent content in Tallinn on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 12:40:46 +0100</lastBuildDate>
     
 	<atom:link href="/tags/tallinn/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Person From Tallinn</title>
       <link>/post/person-from-tallinn/</link>
       <pubDate>Sun, 25 Aug 2019 12:40:46 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/person-from-tallinn/</guid>
       <description> There was once a person from Tallinn
 Who didn&amp;#39;t much care for old Stalin

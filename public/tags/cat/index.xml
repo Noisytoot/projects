@@ -6,6 +6,8 @@
     <description>Recent content in cat on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:27:06 +0100</lastBuildDate>
     
 	<atom:link href="/tags/cat/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Cat Sat on the Mat</title>
       <link>/post/the-cat-sat-on-the-mat/</link>
       <pubDate>Sun, 25 Aug 2019 13:27:06 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/the-cat-sat-on-the-mat/</guid>
       <description> The cat
 Sat

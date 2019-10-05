@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[beard on noisytoot]]></title>
+    
+    
+    
+            <link href="/tags/beard/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/tags/beard/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
+            <link href="/tags/beard/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2019-10-05T20:08:43+01:00</updated>
+    
+    
+    <author>
+            <name>Noisytoot</name>
+            
+                <email>noisytoot@gmail.com</email>
+            </author>
+    
+        <id>/tags/beard/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Man With a Beard]]></title>
+            <link href="/post/man-with-a-beard/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/man-with-a-beard/</id>
+            
+            
+            <published>2019-08-25T12:53:38+01:00</published>
+            <updated>2019-08-25T12:53:38+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>
+There was an old man with a beard<br>
+Who said it is just as I feared<br>
+Two larks and a hen<br>
+Who had a ball pen<br>
+Just signed their name on my beard
+</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                             
+                                <category scheme="/categories/limericks" term="limericks" label="limericks" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/beard" term="beard" label="beard" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

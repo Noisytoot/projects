@@ -6,6 +6,8 @@
     <description>Recent content in smug on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:44:32 +0100</lastBuildDate>
     
 	<atom:link href="/tags/smug/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Smug Pug in Mug 3</title>
       <link>/post/smug-pug-in-mug-3/</link>
       <pubDate>Sun, 25 Aug 2019 13:44:32 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-3/</guid>
       <description>The mug
 Was fug,
@@ -40,7 +42,7 @@ The mug said &amp;#34;I am smug&amp;#34;</description>
       <title>Smug Pug in Mug 2</title>
       <link>/post/smug-pug-in-mug-2/</link>
       <pubDate>Sun, 25 Aug 2019 13:41:50 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/smug-pug-in-mug-2/</guid>
       <description>The smug pug
 Who was in the mug

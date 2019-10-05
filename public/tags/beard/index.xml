@@ -6,6 +6,8 @@
     <description>Recent content in beard on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 12:53:38 +0100</lastBuildDate>
     
 	<atom:link href="/tags/beard/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Man With a Beard</title>
       <link>/post/man-with-a-beard/</link>
       <pubDate>Sun, 25 Aug 2019 12:53:38 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/man-with-a-beard/</guid>
       <description> There was an old man with a beard
 Who said it is just as I feared

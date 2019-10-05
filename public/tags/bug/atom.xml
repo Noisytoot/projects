@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[bug on noisytoot]]></title>
+    
+    
+    
+            <link href="/tags/bug/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/tags/bug/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
+            <link href="/tags/bug/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2019-10-05T20:08:43+01:00</updated>
+    
+    
+    <author>
+            <name>Noisytoot</name>
+            
+                <email>noisytoot@gmail.com</email>
+            </author>
+    
+        <id>/tags/bug/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[As Snug as a Bug in a Rug]]></title>
+            <link href="/post/as-snug-as-a-bug-in-a-rug/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/as-snug-as-a-bug-in-a-rug/</id>
+            
+            
+            <published>2019-08-25T13:33:58+01:00</published>
+            <updated>2019-08-25T13:33:58+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>
+As snug as a bug in a rug<br>
+Or as a smug pug in a mug<br>
+Or a fug pug in a jug<br>
+You can pour the pug<br>
+From the jug<br>
+To the mug.
+</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/snug" term="snug" label="snug" />
+                             
+                                <category scheme="/tags/bug" term="bug" label="bug" />
+                             
+                                <category scheme="/tags/rug" term="rug" label="rug" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

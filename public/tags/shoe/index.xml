@@ -6,6 +6,8 @@
     <description>Recent content in shoe on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 13:30:17 +0100</lastBuildDate>
     
 	<atom:link href="/tags/shoe/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Shoe</title>
       <link>/post/shoe/</link>
       <pubDate>Sun, 25 Aug 2019 13:30:17 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/shoe/</guid>
       <description>  There was once a shoe Who was pale blue  He went to buy some cheese then he bought some peas  He then put on his jeans and gave his friend some beans   </description>
     </item>

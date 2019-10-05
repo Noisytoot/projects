@@ -6,6 +6,8 @@
     <description>Recent content in Categories on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Sun, 25 Aug 2019 14:00:29 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>poems</title>
       <link>/categories/poems/</link>
       <pubDate>Sun, 25 Aug 2019 14:00:29 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/poems/</guid>
       <description></description>
     </item>
@@ -24,7 +26,7 @@
       <title>limericks</title>
       <link>/categories/limericks/</link>
       <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/limericks/</guid>
       <description></description>
     </item>
@@ -33,7 +35,7 @@
       <title>about</title>
       <link>/categories/about/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/about/</guid>
       <description></description>
     </item>
@@ -42,7 +44,7 @@
       <title>documentation</title>
       <link>/categories/documentation/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/documentation/</guid>
       <description></description>
     </item>
@@ -51,7 +53,7 @@
       <title>programs</title>
       <link>/categories/programs/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/programs/</guid>
       <description></description>
     </item>
@@ -60,7 +62,7 @@
       <title>projects</title>
       <link>/categories/projects/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/projects/</guid>
       <description></description>
     </item>

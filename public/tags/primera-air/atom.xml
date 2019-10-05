@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[Primera Air on noisytoot]]></title>
+    
+    
+    
+            <link href="/tags/primera-air/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/tags/primera-air/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
+            <link href="/tags/primera-air/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2019-10-05T20:08:43+01:00</updated>
+    
+    
+    <author>
+            <name>Noisytoot</name>
+            
+                <email>noisytoot@gmail.com</email>
+            </author>
+    
+        <id>/tags/primera-air/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Primera Air Is Not a Bear 🐻]]></title>
+            <link href="/post/primera-air-is-not-a-bear/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/primera-air-is-not-a-bear/</id>
+            
+            
+            <published>2019-08-25T12:57:57+01:00</published>
+            <updated>2019-08-25T12:57:57+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<!DOCTYPE html>
+<html>
+  <body>
+    <div style="background-color: #FFFF00;">
+      Primera Air is not a bear 🐻<br/>
+      It flies through the air<br/>
+      As if without a care<br/>
+      And yet they do care<br/>
+      Though not enough<br/>
+      To plan adequate water supplies
+    </div>
+  </body>
+</html>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/primera-air" term="primera-air" label="Primera Air" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

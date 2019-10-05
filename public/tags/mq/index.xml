@@ -6,6 +6,8 @@
     <description>Recent content in mq on noisytoot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
+    <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
     <lastBuildDate>Wed, 26 Jun 2019 09:49:02 +0100</lastBuildDate>
     
 	<atom:link href="/tags/mq/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>mq</title>
       <link>/post/mq/</link>
       <pubDate>Wed, 26 Jun 2019 09:49:02 +0100</pubDate>
-      
+      <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/post/mq/</guid>
       <description>A program that asks you maths questions, written in Perl 6, and licensed under the GNU GPL v3.0  This file is about mq version 1.3.2, but the installation instructions will install the latest version What is mq?   mq is a program that asks you maths questions How to use?   mq &amp;lt;mode&amp;gt; &amp;lt;max&amp;gt;   Mode &amp;#34;level1&amp;#34;    Addition, subtraction   Mode &amp;#34;level2&amp;#34;    Multiplication, division   Mode &amp;#34;get-group&amp;#34;    Get the group length   Mode &amp;#34;get-max&amp;#34;    Get the maximum number   Optional named argument &amp;#34;disable-log&amp;#34;    Disable the log file    Example: mq --disable-log level1 10 Configuration file  Where is the configuration file?</description>
     </item>

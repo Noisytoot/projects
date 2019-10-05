@@ -1,7 +1,16 @@
 baseURL = "/" # So that it uses relative links
 languageCode = "en-gb"
 title = "noisytoot"
-theme = "base16"
+theme = ["hugo-atom-feed", "base16"]
 pygmentsuseclasses = true
 pygmentscodefences = true
 pygmentsUseClassic = true
+
+[author]
+name = "Noisytoot"
+email = "noisytoot@gmail.com"
+
+[outputs]
+home = ["HTML", "RSS", "ATOM"]
+section = ["HTML", "RSS", "ATOM"]
+taxonomy = ["HTML", "RSS", "ATOM"]

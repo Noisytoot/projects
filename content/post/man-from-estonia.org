@@ -4,7 +4,6 @@
 #+CATEGORIES[]: poems limericks
 #+TAGS[]: Estonia
 
-Man from Estonia\\
 There was once was a man from Estonia\\
 Who said he had never felt lonelier\\
 Then he went to UK\\
