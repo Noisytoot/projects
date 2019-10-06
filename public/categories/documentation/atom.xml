@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
     <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[documentation on noisytoot]]></title>
     
     
@@ -7,7 +7,7 @@
             <link href="/categories/documentation/" rel="alternate" type="text/html" title="HTML" />
             <link href="/categories/documentation/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/categories/documentation/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-05T20:14:40+01:00</updated>
+    <updated>2019-10-06T14:00:53+01:00</updated>
     
     
     <author>
