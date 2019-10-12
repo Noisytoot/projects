@@ -1,0 +1,9 @@
+#+TITLE: DRM Haiku
+#+DATE: 2019-10-12T11:26:04+01:00
+#+DRAFT: false
+#+CATEGORIES[]: poems haikus
+#+TAGS[]: drm idad defectivebydesign dbd
+
+Digital handcuffs\\
+DRM is very bad\\
+I hate DRM

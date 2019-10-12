@@ -8,10 +8,24 @@
     <language>en-GB</language>
     <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
-    <lastBuildDate>Sun, 25 Aug 2019 14:00:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 11:26:04 +0100</lastBuildDate>
     
         <atom:link href="/categories/poems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DRM Haiku</title>
+      <link>/post/drm-haiku/</link>
+      <pubDate>Sat, 12 Oct 2019 11:26:04 +0100</pubDate>
+      <author>noisytoot@gmail.com (Noisytoot)</author>
+      <guid>/post/drm-haiku/</guid>
+      <description>&lt;p&gt;
+Digital handcuffs&lt;br&gt;
+DRM is very bad&lt;br&gt;
+I hate DRM
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Standard Attainment Tests</title>

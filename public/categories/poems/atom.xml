@@ -7,7 +7,7 @@
             <link href="/categories/poems/" rel="alternate" type="text/html" title="HTML" />
             <link href="/categories/poems/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/categories/poems/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-06T14:00:53+01:00</updated>
+    <updated>2019-10-12T11:31:29+01:00</updated>
     
     
     <author>
@@ -17,6 +17,58 @@
             </author>
     
         <id>/categories/poems/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[DRM Haiku]]></title>
+            <link href="/post/drm-haiku/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/drm-haiku/</id>
+            
+            
+            <published>2019-10-12T11:26:04+01:00</published>
+            <updated>2019-10-12T11:26:04+01:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>
+Digital handcuffs<br>
+DRM is very bad<br>
+I hate DRM
+</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                             
+                                <category scheme="/categories/haikus" term="haikus" label="haikus" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/drm" term="drm" label="drm" />
+                             
+                                <category scheme="/tags/idad" term="idad" label="idad" />
+                             
+                                <category scheme="/tags/defectivebydesign" term="defectivebydesign" label="defectivebydesign" />
+                             
+                                <category scheme="/tags/dbd" term="dbd" label="dbd" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>

@@ -4,22 +4,57 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-08-25T14:00:29+01:00</lastmod>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dbd/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/defectivebydesign/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/drm/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/drm-haiku/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/haikus/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/idad/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-25T14:00:29+01:00</lastmod>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/poems/</loc>
-    <lastmod>2019-08-25T14:00:29+01:00</lastmod>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-08-25T14:00:29+01:00</lastmod>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-12T11:26:04+01:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +64,6 @@
   
   <url>
     <loc>/post/sats/</loc>
-    <lastmod>2019-08-25T14:00:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-08-25T14:00:29+01:00</lastmod>
   </url>
   
