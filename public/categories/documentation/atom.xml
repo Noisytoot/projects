@@ -7,7 +7,7 @@
             <link href="/categories/documentation/" rel="alternate" type="text/html" title="HTML" />
             <link href="/categories/documentation/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/categories/documentation/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-27T13:19:04+00:00</updated>
+    <updated>2019-10-27T13:24:39+00:00</updated>
     
     
     <author>
@@ -102,7 +102,7 @@ Configuration file
 Where is the configuration file?
 </h2>
 <p>
-The location is set in the environment variable $MCONFIG, if $MCONFIG does not exist then it is in ~/.mq/config.toml
+The location is set in the environment variable <code>$MQ_CONFIG</code>, if <code>$MQ_CONFIG</code> does not exist then it is in ~/.mq/config.toml
 </p>
 <h2 id="headline-5">
 What format is it in?
@@ -143,7 +143,7 @@ Log file
 Where is the log file?
 </h2>
 <p>
-The location is set in the environment variable $MLOG, if $MLOG does not exist then it is in ~/.mq/log.slf
+The location is set in the environment variable <code>$MQ_LOG</code>, if <code>$MQ_LOG</code> does not exist then it is in ~/.mq/log.slf
 </p>
 <h2 id="headline-11">
 What format is it in?

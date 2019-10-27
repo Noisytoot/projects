@@ -90,7 +90,7 @@ Configuration file
 Where is the configuration file?
 &lt;/h2&gt;
 &lt;p&gt;
-The location is set in the environment variable $MCONFIG, if $MCONFIG does not exist then it is in ~/.mq/config.toml
+The location is set in the environment variable &lt;code&gt;$MQ_CONFIG&lt;/code&gt;, if &lt;code&gt;$MQ_CONFIG&lt;/code&gt; does not exist then it is in ~/.mq/config.toml
 &lt;/p&gt;
 &lt;h2 id=&#34;headline-5&#34;&gt;
 What format is it in?
@@ -131,7 +131,7 @@ Log file
 Where is the log file?
 &lt;/h2&gt;
 &lt;p&gt;
-The location is set in the environment variable $MLOG, if $MLOG does not exist then it is in ~/.mq/log.slf
+The location is set in the environment variable &lt;code&gt;$MQ_LOG&lt;/code&gt;, if &lt;code&gt;$MQ_LOG&lt;/code&gt; does not exist then it is in ~/.mq/log.slf
 &lt;/p&gt;
 &lt;h2 id=&#34;headline-11&#34;&gt;
 What format is it in?
