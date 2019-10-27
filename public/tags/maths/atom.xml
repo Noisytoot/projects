@@ -7,7 +7,7 @@
             <link href="/tags/maths/" rel="alternate" type="text/html" title="HTML" />
             <link href="/tags/maths/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/tags/maths/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-27T12:56:18+00:00</updated>
+    <updated>2019-10-27T13:16:20+00:00</updated>
     
     
     <author>
@@ -158,7 +158,7 @@ Installation instructions
 These instructions use GitHub, but you can use GitLab or Noisytoot Git instead, by replacing the URI you get mq from
 </p>
 <h2 id="headline-13">
-for UNIX and UNIX-like operating systems (like Linux, BSD, Mac OS X)
+for UNIX and UNIX-like operating systems (like GNU/Linux, BSD, Mac OS X)
 </h2>
 <h3 id="headline-14">
 Using git

@@ -482,7 +482,7 @@ Installation instructions
 These instructions use GitHub, but you can use GitLab or Noisytoot Git instead, by replacing the URI you get mq from
 &lt;/p&gt;
 &lt;h2 id=&#34;headline-13&#34;&gt;
-for UNIX and UNIX-like operating systems (like Linux, BSD, Mac OS X)
+for UNIX and UNIX-like operating systems (like GNU/Linux, BSD, Mac OS X)
 &lt;/h2&gt;
 &lt;h3 id=&#34;headline-14&#34;&gt;
 Using git
