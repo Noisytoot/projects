@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
-    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[mq on noisytoot]]></title>
+    <generator uri="https://gohugo.io/" version="0.59.0">Hugo</generator><title type="html"><![CDATA[mq on noisytoot]]></title>
     
     
     
             <link href="/tags/mq/" rel="alternate" type="text/html" title="HTML" />
             <link href="/tags/mq/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/tags/mq/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-12T11:31:29+01:00</updated>
+    <updated>2019-10-27T12:56:18+00:00</updated>
     
     
     <author>
@@ -33,7 +33,7 @@
             
             <content type="html"><![CDATA[
 <p>
-A program that asks you maths questions, written in <a href="https://perl6.org/">Perl 6</a>, and licensed under the GNU GPL v3.0
+A program that asks you maths questions, written in <a href="https://perl6.org/">Perl 6</a>, and licensed under the GNU GPL v3.0 (or any later version)
 </p>
 <p>
 This file is about mq version 1.3.2, but the installation instructions will install the latest version
@@ -102,7 +102,7 @@ Configuration file
 Where is the configuration file?
 </h2>
 <p>
-The location is set in the environment variable $MQ_CONFIG, if $MQ_CONFIG does not exist then it is in ~/.mq/config.toml
+The location is set in the environment variable $MCONFIG, if $MCONFIG does not exist then it is in ~/.mq/config.toml
 </p>
 <h2 id="headline-5">
 What format is it in?
@@ -143,7 +143,7 @@ Log file
 Where is the log file?
 </h2>
 <p>
-The location is set in the environment variable $MQ_LOG, if $MQ_LOG does not exist then it is in ~/.mq/log.slf
+The location is set in the environment variable $MLOG, if $MLOG does not exist then it is in ~/.mq/log.slf
 </p>
 <h2 id="headline-11">
 What format is it in?

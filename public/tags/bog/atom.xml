@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
-    <generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator><title type="html"><![CDATA[bog on noisytoot]]></title>
+    <generator uri="https://gohugo.io/" version="0.59.0">Hugo</generator><title type="html"><![CDATA[bog on noisytoot]]></title>
     
     
     
             <link href="/tags/bog/" rel="alternate" type="text/html" title="HTML" />
             <link href="/tags/bog/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/tags/bog/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-10-12T11:31:29+01:00</updated>
+    <updated>2019-10-27T12:56:18+00:00</updated>
     
     
     <author>
