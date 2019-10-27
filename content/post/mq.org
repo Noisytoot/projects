@@ -48,7 +48,7 @@ This file is about mq version 1.3.2, but the installation instructions will inst
 * Installation instructions
   These instructions use GitHub, but you can use GitLab or Noisytoot Git instead, by replacing the URI you get mq from
 
-** for UNIX and UNIX-like operating systems (like GNU/Linux, BSD, Mac OS X)
+** For UNIX and UNIX-like operating systems (like GNU/Linux, BSD, Mac OS X)
 *** Using git
     Install mq:
     
