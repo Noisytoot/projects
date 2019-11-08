@@ -1,0 +1,14 @@
+#+TITLE: Lady from Sweden
+#+DATE: 2019-11-08T20:56:12Z
+#+DRAFT: false
+#+CATEGORIES[]: poems limericks
+#+TAGS[]: Sweden
+There was once a lady from Sweden\\
+Which made it all very even\\
+The dog said "hello"\\
+And the cat said "oh no"\\
+And they all ended up in Eden[fn:1]
+
+Dedicated to the public domain, or licensed under the [[https://creativecommons.org/publicdomain/zero/1.0/legalcode][CC0]]
+
+[fn:1] Another version uses "The Eden Project"

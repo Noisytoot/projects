@@ -8,10 +8,28 @@
     <language>en-GB</language>
     <managingEditor>noisytoot@gmail.com (Noisytoot)</managingEditor>
     <webMaster>noisytoot@gmail.com (Noisytoot)</webMaster>
-    <lastBuildDate>Sat, 12 Oct 2019 11:26:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 20:56:12 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>limericks</title>
+      <link>/categories/limericks/</link>
+      <pubDate>Fri, 08 Nov 2019 20:56:12 +0000</pubDate>
+      <author>noisytoot@gmail.com (Noisytoot)</author>
+      <guid>/categories/limericks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poems</title>
+      <link>/categories/poems/</link>
+      <pubDate>Fri, 08 Nov 2019 20:56:12 +0000</pubDate>
+      <author>noisytoot@gmail.com (Noisytoot)</author>
+      <guid>/categories/poems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>haikus</title>
@@ -19,24 +37,6 @@
       <pubDate>Sat, 12 Oct 2019 11:26:04 +0100</pubDate>
       <author>noisytoot@gmail.com (Noisytoot)</author>
       <guid>/categories/haikus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poems</title>
-      <link>/categories/poems/</link>
-      <pubDate>Sat, 12 Oct 2019 11:26:04 +0100</pubDate>
-      <author>noisytoot@gmail.com (Noisytoot)</author>
-      <guid>/categories/poems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>limericks</title>
-      <link>/categories/limericks/</link>
-      <pubDate>Sun, 25 Aug 2019 12:55:53 +0100</pubDate>
-      <author>noisytoot@gmail.com (Noisytoot)</author>
-      <guid>/categories/limericks/</guid>
       <description></description>
     </item>
     

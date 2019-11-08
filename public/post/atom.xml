@@ -7,7 +7,7 @@
             <link href="/post/" rel="alternate" type="text/html" title="HTML" />
             <link href="/post/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
             <link href="/post/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2019-11-08T19:37:38+00:00</updated>
+    <updated>2019-11-08T21:05:53+00:00</updated>
     
     
     <author>
@@ -17,6 +17,70 @@
             </author>
     
         <id>/post/</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Lady from Sweden]]></title>
+            <link href="/post/lady-from-sweden/?utm_source=atom_feed" rel="alternate" type="text/html" />
+            
+            
+                <id>/post/lady-from-sweden/</id>
+            
+            
+            <published>2019-11-08T20:56:12+00:00</published>
+            <updated>2019-11-08T20:56:12+00:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>
+There was once a lady from Sweden<br>
+Which made it all very even<br>
+The dog said &#34;hello&#34;<br>
+And the cat said &#34;oh no&#34;<br>
+And they all ended up in Eden<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup>
+</p>
+<p>
+Dedicated to the public domain, or licensed under the <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0</a>
+</p>
+<div class="footnotes">
+<hr class="footnotes-separatator">
+<div class="footnote-definitions">
+<div class="footnote-definition">
+<sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+<div class="footnote-body">
+<p>
+Another version uses &#34;The Eden Project&#34;
+</p>
+</div>
+</div>
+</div>
+</div>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/categories/poems" term="poems" label="poems" />
+                             
+                                <category scheme="/categories/limericks" term="limericks" label="limericks" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/sweden" term="sweden" label="Sweden" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
