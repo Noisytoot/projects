@@ -25,7 +25,7 @@ A command line program that tests your knowledge of arithmetic (addition/subtrac
 and then logs the results, written in &lt;a href=&#34;https://perl6.org/&#34;&gt;Perl 6&lt;/a&gt;, and licensed under the GNU GPL v3.0 (or any later version)
 &lt;/p&gt;
 &lt;p&gt;
-This document is about mq version 1.4.0, but the installation instructions will install the latest version
+This document is about mq version 1.5.0, but the installation instructions will install the latest version
 &lt;/p&gt;
 &lt;p&gt;
 &lt;strong&gt;Note&lt;/strong&gt;: &lt;code class=&#34;verbatim&#34;&gt;$MQ_CONFIG_DIR&lt;/code&gt; was added in v1.4.0
@@ -80,12 +80,20 @@ Optional named argument &amp;#34;disable-log&amp;#34;
 &lt;/dt&gt;
 &lt;dd&gt;
 &lt;p&gt;
-Disable the log file
+Disable the log file, added in v1.5.0
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+Optional named argument &amp;#34;group&amp;#34;
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+Set the group length, added in v1.5.0
 &lt;/p&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;p&gt;
-Example: &lt;code&gt;mq --disable-log level1 10&lt;/code&gt;
+Example: &lt;code&gt;mq --disable-log --group 5 level1 10&lt;/code&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;headline-3&#34;&gt;
 Configuration file

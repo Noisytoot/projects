@@ -7,7 +7,7 @@
 A command line program that tests your knowledge of arithmetic (addition/subtraction, multiplication/division),
 and then logs the results, written in [[https://perl6.org/][Perl 6]], and licensed under the GNU GPL v3.0 (or any later version)
 
-This document is about mq version 1.4.0, but the installation instructions will install the latest version
+This document is about mq version 1.5.0, but the installation instructions will install the latest version
 
 *Note*: =$MQ_CONFIG_DIR= was added in v1.4.0
 
@@ -20,8 +20,9 @@ This document is about mq version 1.4.0, but the installation instructions will 
   - Mode "level2" :: Multiplication, division
   - Mode "get-group" :: Get the group length
   - Mode "get-max" :: Get the maximum number
-  - Optional named argument "disable-log" :: Disable the log file
-  Example: ~mq --disable-log level1 10~
+  - Optional named argument "disable-log" :: Disable the log file, added in v1.5.0
+  - Optional named argument "group" :: Set the group length, added in v1.5.0
+  Example: ~mq --disable-log --group 5 level1 10~
 
 * Configuration file
 ** Where is the configuration file?
