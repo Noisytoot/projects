@@ -393,7 +393,7 @@ A command line program that tests your knowledge of arithmetic (addition/subtrac
 and then logs the results, written in &lt;a href=&#34;https://perl6.org/&#34;&gt;Perl 6&lt;/a&gt;, and licensed under the GNU GPL v3.0 (or any later version)
 &lt;/p&gt;
 &lt;p&gt;
-This document is about mq version 1.5.0, but the installation instructions will install the latest version
+This document is about mq version 1.5.x, but the installation instructions will install the latest version
 &lt;/p&gt;
 &lt;p&gt;
 &lt;strong&gt;Note&lt;/strong&gt;: &lt;code class=&#34;verbatim&#34;&gt;$MQ_CONFIG_DIR&lt;/code&gt; was added in v1.4.0
