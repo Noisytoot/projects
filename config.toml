@@ -8,7 +8,7 @@ pygmentsUseClassic = true
 
 [author]
 name = "Noisytoot"
-email = "noisytoot@gmail.com"
+email = "ron@noisytoot.org"
 
 [outputs]
 home = ["HTML", "RSS", "ATOM"]
